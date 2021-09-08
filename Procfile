@@ -1,0 +1,1 @@
+web: gunicorn DjangoCinemania.wsgi --log-file -
